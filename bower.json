@@ -1,0 +1,21 @@
+{
+  "name": "bem-alerts",
+  "version": "0.1.0",
+  "homepage": "https://github.com/kompolom/bem-alerts",
+  "authors": [
+    "Evgeniy Baranov <master@kompolom.ru>"
+  ],
+  "description": "Alerts for bem projects",
+  "keywords": [
+    "bem",
+    "alert"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
